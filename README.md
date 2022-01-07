@@ -1,6 +1,13 @@
 # Salesforce DX Project: Next Steps
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+Display Toast Notifications
+A component can send a toast notification that pops up to alert users of a success, error, or warning. A toast can also simply provide information.
+
+To display a toast notification in Lightning Experience or Experience Builder sites, import ShowToastEvent from the lightning/platformShowToastEvent module.
+
+
+- [Salesforce Display Toast Notifications](https://developer.salesforce.com/docs/component-library/documentation/en/lwc/lwc.use_toast)
+
 
 ## How Do You Plan to Deploy Your Changes?
 
